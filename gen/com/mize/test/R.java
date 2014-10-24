@@ -5,7 +5,7 @@
  * should not be modified by hand.
  */
 
-package com.servicelive.android.servicelivepro.test;
+package com.mize.test;
 
 public final class R {
     public static final class attr {
