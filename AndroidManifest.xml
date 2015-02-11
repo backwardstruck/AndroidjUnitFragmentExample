@@ -8,7 +8,7 @@
 
     <instrumentation
         android:name="android.test.InstrumentationTestRunner"
-        android:targetPackage="com.servicelive.android.servicelivepro" />
+        android:targetPackage="com.rooney.android" />
 
     <application
         android:icon="@drawable/ic_launcher"
