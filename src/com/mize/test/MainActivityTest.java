@@ -6,8 +6,7 @@ import android.content.Intent;
 import android.os.SystemClock;
 import android.test.ActivityInstrumentationTestCase2;
 
-import com.servicelive.android.servicelivepro.activity.MainActivity;
-import com.servicelive.android.servicelivepro.fragment.LoginFragment;
+
 
 public class MainActivityTest extends ActivityInstrumentationTestCase2<MainActivity> {
 
